@@ -1,0 +1,13 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Competitive Programming Helper files
+.cph/
+
+# Ignore compiled C outputs
+*.out
+*.exe
+*.o
+
+# Optional: ignore any output folder
+output/
