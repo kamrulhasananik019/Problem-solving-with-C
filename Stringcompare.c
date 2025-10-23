@@ -26,6 +26,6 @@ int main(){
             break;
         }
     }
-    
-
+    // printf("%d",strcmp(a,b));
+return 0;
 }
