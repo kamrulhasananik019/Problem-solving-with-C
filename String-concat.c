@@ -10,5 +10,8 @@ int main(){
     for(int i=0;i<=lenB;i++){
         a[i+lenA]=b[i];
     }
+
+    // easy way to do that strcat(a,b)
+    
     printf("%s %s",a, b);
 }
