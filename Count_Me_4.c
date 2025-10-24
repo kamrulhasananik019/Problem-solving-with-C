@@ -7,11 +7,7 @@ int main(){
     int length=strlen(a);
 
 
-// int f[length];
-// for (int i = 0; i < length; i++)
-// {
-//     f[i]=0;
-// }
+
 
 int f[26]={0};
 for (int i = 0; i < length; i++)
