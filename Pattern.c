@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&n);
     star=1;
     int ustar=1;
-   int t=1;
+//    int t=1;
 //    int ut=n-1;
    space=n-1;
    uspace=1;
