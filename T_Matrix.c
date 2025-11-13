@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <stdlib.h> 
 
 int main(){
     int n;
@@ -41,7 +42,7 @@ int arr[r][c];
         }
     }  
     }
-    int sum=sumR+sumL;
+    int sum=abs(sumR-sumL);
     printf("%d",sum);
 
     return 0;
